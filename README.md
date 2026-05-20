@@ -24,7 +24,7 @@
 
 | Project | Stack | Impact |
 |---|---|---|
-| 🔴 **[Triage](https://github.com/zen-karia/Triage)** - Live | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **84 req/s** @ p99 212ms · **0% error rate** · **112× Lambda speedup** |
+| 🔴 **[Triage](https://github.com/zen-karia/Triage)** — Live | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **84 req/s** @ p99 212ms · **0% error rate** · **112× Lambda speedup** |
 | ⭐ **[Structify](https://github.com/zen-karia/Structify)** — Live (5.0 stars) | React.js · Manifest V3 · OpenAI API · Chrome Extension API| Organizes **50+ tabs** · **50% faster** tab navigation |
 | 🤖 **[SkillScan](https://github.com/zen-karia/SkillScan)** | Node.js · GPT-4 · Google Cloud API| AI mock interviewer · tested on **50+ resumes** |
 
@@ -78,3 +78,18 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zen-karia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-karia&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zen-karia&color=58A6FF&style=flat&label=Profile+Views"/>
+</div>
