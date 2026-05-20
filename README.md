@@ -24,8 +24,8 @@
 
 | Project | Stack | Impact |
 |---|---|---|
-| 🔴 **[Triage](https://github.com/zen-karia/Triage)** | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **84 req/s** @ p99 212ms · **0% error rate** · **112× Lambda speedup** |
-| ⭐ **[Structify](https://github.com/zen-karia/Structify)** — 5.0 stars | React.js · Manifest V3 · OpenAI API · Chrome Extension API| Organizes **50+ tabs** · **50% faster** tab navigation |
+| 🔴 **[Triage](https://github.com/zen-karia/Triage)** - Live | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **84 req/s** @ p99 212ms · **0% error rate** · **112× Lambda speedup** |
+| ⭐ **[Structify](https://github.com/zen-karia/Structify)** — Live (5.0 stars) | React.js · Manifest V3 · OpenAI API · Chrome Extension API| Organizes **50+ tabs** · **50% faster** tab navigation |
 | 🤖 **[SkillScan](https://github.com/zen-karia/SkillScan)** | Node.js · GPT-4 · Google Cloud API| AI mock interviewer · tested on **50+ resumes** |
 
 > More projects at **[www.zenilkaria.com](https://www.zenilkaria.com)**
