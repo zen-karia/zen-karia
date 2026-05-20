@@ -14,7 +14,19 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **CS Co-op** @ University of Waterloo
+- 🎓 **CS** @ University of Waterloo
 - 💼 **Software Developer Intern** @ TripToGo
 - ⚡ I build event-driven pipelines, AI tools, and full-stack web apps
 - 🌐 More at [zenilkaria.com](https://www.zenilkaria.com)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| 🔴 **[Triage](https://github.com/zen-karia)** | AWS CDK · TypeScript · Next.js · Amazon Bedrock | **84 req/s** @ p99 212ms · **0% error rate** · **112× Lambda speedup** |
+| ⭐ **[Structify](https://github.com/zen-karia)** — 5.0 stars | React.js · Manifest V3 · OpenAI | Organizes **50+ tabs** · **50% faster** tab navigation |
+| 🤖 **[SkillScan](https://github.com/zen-karia)** | Node.js · GPT-4 · Google Cloud | AI mock interviewer · tested on **50+ resumes** |
+
+> More projects at **[zenilkaria.com](https://www.zenilkaria.com)**
