@@ -81,15 +81,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zen-karia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-karia&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zen-karia&color=58A6FF&style=flat&label=Profile+Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zen-karia&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
