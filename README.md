@@ -26,7 +26,7 @@
 |---|---|---|
 | 🔴 **[Triage](https://github.com/zen-karia/Triage)** — Live | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **84 req/s** @ p99 212ms · **0% error rate** · **112× Lambda speedup** |
 | 🔍 **[CodeRev](https://github.com/zen-karia/CodeRev)** | TypeScript · Python · FastAPI · ChromaDB · OpenAI API | VS Code extension · RAG-powered PR reviews grounded in your codebase |
-| ⚡ **[LLM API Rate Limiter](https://github.com/zen-karia/llmApiRateLimiter)** | Go · gRPC · Redis · Prometheus · Docker | **10K+ req/s** · **sub-5ms p99** · supports OpenAI, Anthropic & Bedrock |
+| ⚡ **[LLM API Rate Limiter](https://github.com/zen-karia/llmApiRateLimiter)** | Go · gRPC · Redis · Prometheus · Docker | **10K+ req/s** · **sub-5ms p99** · token bucket & sliding window algorithms |
 
 > More projects at **[www.zenilkaria.com](https://www.zenilkaria.com)**
 
