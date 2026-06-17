@@ -24,7 +24,7 @@
 
 | Project | Stack | Impact |
 |---|---|---|
-| 🔴 **[Triage](https://github.com/zen-karia/Triage)** — Live | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **277 req/s** @ p99 173ms · **99.28% success rate** · **5× Lambda speedup** |
+| 🔴 **[Triage](https://github.com/zen-karia/Triage)** — Live | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **277 req/s** @ p99 173ms · **99.28% success rate** · **5× Lambda speedup** · **33,440 requests** load-tested |
 | 🔍 **[CodeRev](https://github.com/zen-karia/CodeRev)** | TypeScript · Python · FastAPI · ChromaDB · OpenAI API | VS Code extension · RAG-powered PR reviews grounded in your codebase |
 | ⚡ **[LLM API Rate Limiter](https://github.com/zen-karia/llmApiRateLimiter)** | Go · gRPC · Redis · Prometheus · Docker | **10K+ req/s** · **sub-5ms p99** · token bucket & sliding window algorithms |
 
