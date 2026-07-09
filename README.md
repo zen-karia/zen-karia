@@ -16,7 +16,7 @@
 
 - 🎓 **CS** @ University of Waterloo
 - 💼 **Software Developer Intern** @ TripToGo | Prev @ eSentire
-- 🌐 More at [www.zenilkaria.com](https://www.zenilkaria.com)
+- 🗺️ Seeking Winter/Summer 2027 SWE Intern Opportunities
 
 ---
 
