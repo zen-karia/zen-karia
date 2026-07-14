@@ -27,7 +27,7 @@
 | 🔴 **[Triage](https://github.com/zen-karia/Triage)** | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **277 req/s** @ p99 173ms · **99.28% success rate** · **5× Lambda speedup** · **33,440 requests** load-tested |
 | 🔍 **[CodeRev](https://github.com/zen-karia/CodeRev)** | TypeScript · Python · FastAPI · ChromaDB · OpenAI API | VS Code extension · RAG-powered PR reviews grounded in your codebase |
 | ⚡ **[LLM API Rate Limiter](https://github.com/zen-karia/llmApiRateLimiter)** | Go · gRPC · Redis · Prometheus · Docker | **10K+ req/s** · **sub-5ms p99** · token bucket & sliding window algorithms |
-| 🧬 **[Proxima](https://github.com/zen-karia/Proxima)** — In-Memory Vector DB | C++17 · CMake · ARM NEON (SIMD) · POSIX Sockets · GoogleTest · Google Benchmark | **3.2× SIMD kernel speedup** · **2.7× lower query latency** · **~107µs** top-10 over 10K vectors |
+| 🧬 **[Proxima](https://github.com/zen-karia/Proxima)** — In-Memory Vector DB | C++17 · CMake · ARM NEON (SIMD) · POSIX Sockets · GoogleTest · Google Benchmark | **3.2× SIMD kernel speedup** · **2.7× lower query latency** · **~107µs** top-10 @ 10K vectors · **~1025µs** @ 100K · append-only persistence |
 
 > More projects at **[www.zenilkaria.com](https://www.zenilkaria.com)**
 
