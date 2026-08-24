@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **CS** @ University of Waterloo
-- 💼 **Software Developer Intern** @ TripToGo | Prev @ eSentire
+- 💼 **Software Developer Intern** @ Voyada AI | Prev @ eSentire
 - 🗺️ Seeking Winter/Summer 2027 SWE Intern Opportunities
 
 ---
