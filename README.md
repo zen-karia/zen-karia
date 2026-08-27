@@ -27,6 +27,7 @@
 | 🔴 **[Triage](https://github.com/zen-karia/Triage)** | AWS CDK · TypeScript · Next.js · Amazon Bedrock · Step Functions · EventBrige · SQS · SES · CloudWatch · GitHub Actions| **277 req/s** @ p99 173ms · **99.28% success rate** · **5× Lambda speedup** · **33,440 requests** load-tested |
 | 🔍 **[CodeRev](https://github.com/zen-karia/CodeRev)** | TypeScript · Python · FastAPI · ChromaDB · OpenAI API | VS Code extension · RAG-powered PR reviews grounded in your codebase |
 | 🧬 **[Proxima](https://github.com/zen-karia/Proxima)** | C++17 · CMake · ARM NEON (SIMD) · POSIX Sockets · GoogleTest · Google Benchmark | **3.2× SIMD kernel speedup** · **2.7× lower query latency** · **~107µs** top-10 @ 10K vectors · **~1025µs** @ 100K · append-only persistence |
+| 🛰️ **[Janus](https://github.com/zen-karia/Build-With-Gemma)** | Python · FastAPI · Uvicorn · Ollama · Google Gemma · Chart.js · ReportLab · pytest | offline edge-AI fault arbitration for deep-space descent · schema-constrained Gemma verdicts + safety guardrails |
 
 > More projects at **[www.zenilkaria.com](https://www.zenilkaria.com)**
 
