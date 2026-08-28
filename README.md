@@ -81,6 +81,7 @@
 ![Google Benchmark](https://img.shields.io/badge/Google_Benchmark-4285F4?style=flat&logo=google&logoColor=white)
 ![ARM NEON](https://img.shields.io/badge/ARM_NEON_(SIMD)-0091BD?style=flat&logo=arm&logoColor=white)
 ![ReportLab](https://img.shields.io/badge/ReportLab-D9230F?style=flat&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
