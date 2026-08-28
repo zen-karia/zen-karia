@@ -61,6 +61,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2094F3?style=flat&logo=gunicorn&logoColor=white)
 
 **AI/ML**  
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat&logo=openai&logoColor=white)
