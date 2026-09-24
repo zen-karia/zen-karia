@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **CS** @ University of Waterloo
-- 💼 Prev. **SDE Intern** @ Voyada AI, eSentire
+- 💼 Incoming @ Cresta | Prev. **SDE Intern** @ Voyada AI, eSentire
 - 🗺️ Seeking Winter/Summer 2027 SWE Intern Opportunities
 
 ---
